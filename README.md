@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-<a target="_blank"><img src="figs/CausalLens_logo_title.pdf" alt="CausalLens" style="width: 75%; min-width: 200px; display: block; margin: auto;"></a>
+<a target="_blank"><img src="figs/CausalLens_logo_title.png" alt="CausalLens" style="width: 75%; min-width: 200px; display: block; margin: auto;"></a>
 </p>
 
 # CausalLens: Sensitivity-Guided Multi-Head Causal Intervention for Hallucination Mitigation in Large Vision-Language Models
